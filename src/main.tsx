@@ -13,7 +13,7 @@ import {
 
 class ExamplePlugin implements IPanelPlugin {
   icon: Icon = Icon3dCubeSphere;
-  namespace: string = "ExamplePlugin";
+  namespace: string = "example";
   version: string = "2.0.0";
   index: number = 0;
   pluginStore!: PluginStore;
