@@ -49,6 +49,7 @@ To ensure that your plugin is ready for release, please ensure that you have com
    - Obfuscate code to hide its purpose
    - Insert dynamic ads
    - Collect telemetry data client side
+   - All plugins must be under open source licenses and the source code must be disclosed
 
 ## Disclosures
 The following have to be indicated clearly in the readme.md
@@ -57,7 +58,6 @@ The following have to be indicated clearly in the readme.md
 - Network access. Clearly indicate what data is sent where and why
 - Static ads or popups
 - Server-side telemetry. Link to the privacy policy must be included.
-- Closed source code. We will handle this on a case by case basis.
 
 ## Removing plugins and themes
 In case of a policy violation, we may attempt to contact the developer and provide a reasonable timeframe for them to resolve the problem.
